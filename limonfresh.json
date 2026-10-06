@@ -1,0 +1,143 @@
+{
+  "brand": "LimonFresh",
+  "tagline": "Refrescando tus momentos",
+  "version": "1.0",
+  "categories": [
+    {
+      "name": "Limonadas",
+      "summary": "Limón verde exprimido al momento con agua muy fría y el justo dulzor de la casa."
+    },
+    {
+      "name": "Hierbas y Menta",
+      "summary": "Recetas con hojas frescas golpeadas en el mortero: más sabor y menos azúcar."
+    },
+    {
+      "name": "De Fruta",
+      "summary": "Pulpa de fruta batida con hielo y limón, sin concentrados artificiales."
+    },
+    {
+      "name": "Tropicales",
+      "summary": "Sabores de la casa con coco y frutas del día. Pregunta por el sabor de temporada."
+    },
+    {
+      "name": "Refrescantes",
+      "summary": "Con soda y mucho hielo para los días más calurosos del año."
+    },
+    {
+      "name": "Combos",
+      "summary": "Dos vasos o una familia completa de limonadas para compartir en la tarde."
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Limonada Clásica",
+      "category": "Limonadas",
+      "summary": "Limón verde exprimido al momento, agua muy fría y el justo dulzor de la casa.",
+      "price": "7500",
+      "image": "limonada_clasica",
+      "size": "500 ml",
+      "rating": "4.8"
+    },
+    {
+      "id": 2,
+      "name": "Limonada de Naranja y Limón",
+      "category": "Limonadas",
+      "summary": "Zumo de naranja natural con limón recién exprimido y un toque de miel.",
+      "price": "8500",
+      "image": "limonada_naranja",
+      "size": "500 ml",
+      "rating": "4.7"
+    },
+    {
+      "id": 3,
+      "name": "Limonada de Hierbabuena",
+      "category": "Hierbas y Menta",
+      "summary": "Hojas de hierbabuena golpeadas en el mortero con limón y azúcar orgánica.",
+      "price": "9000",
+      "image": "limonada_hierbabuena",
+      "size": "500 ml",
+      "rating": "4.9"
+    },
+    {
+      "id": 4,
+      "name": "Limonada de Jengibre y Menta",
+      "category": "Hierbas y Menta",
+      "summary": "Jengibre fresco rallado con menta y limón: ideal después de entrenar.",
+      "price": "9500",
+      "image": "limonada_jengibre",
+      "size": "400 ml",
+      "rating": "4.7"
+    },
+    {
+      "id": 5,
+      "name": "Limonada de Coco",
+      "category": "Tropicales",
+      "summary": "Coco cremoso con un toque de limón amarillo y agua de coco bien fría.",
+      "price": "10500",
+      "image": "limonada_coco",
+      "size": "500 ml",
+      "rating": "4.6"
+    },
+    {
+      "id": 6,
+      "name": "Limonada de Mango",
+      "category": "De Fruta",
+      "summary": "Pulpa de mango maduro batida con hielo, limón y un chorrito de agua mineral.",
+      "price": "9800",
+      "image": "limonada_mango",
+      "size": "500 ml",
+      "rating": "4.7"
+    },
+    {
+      "id": 7,
+      "name": "Limonada de Cereza",
+      "category": "De Fruta",
+      "summary": "Cerezas licuadas con su hueso, limón y hielo: dulce y ligeramente agridulce.",
+      "price": "10200",
+      "image": "limonada_cereza",
+      "size": "450 ml",
+      "rating": "4.5"
+    },
+    {
+      "id": 8,
+      "name": "Limonada de Fresa",
+      "category": "De Fruta",
+      "summary": "Fresas maceradas con zumo de limón y agua mineral natural.",
+      "price": "10000",
+      "image": "limonada_fresa",
+      "size": "450 ml",
+      "rating": "4.6"
+    },
+    {
+      "id": 9,
+      "name": "Soda de Limón con Menta",
+      "category": "Refrescantes",
+      "summary": "Soda de limón bien fría con hojas de menta y un toque de hielo frappé.",
+      "price": "11200",
+      "image": "limonada_soda",
+      "size": "600 ml",
+      "rating": "4.8"
+    },
+    {
+      "id": 10,
+      "name": "Combo Doble Clásico",
+      "category": "Combos",
+      "summary": "Dos vasos de limonada clásica de 500 ml, listos para compartir.",
+      "price": "13500",
+      "image": "limonada_combo",
+      "size": "2 x 500 ml",
+      "rating": "4.9"
+    },
+    {
+      "id": 11,
+      "name": "Combo Familiar Tropical",
+      "category": "Combos",
+      "summary": "Cuatro vasos de la casa: clásica, coco y mango, para toda la familia.",
+      "price": "32000",
+      "image": "limonada_combo_familiar",
+      "size": "4 vasos",
+      "rating": "4.8"
+    }
+  ]
+}
